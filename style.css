@@ -1,0 +1,91 @@
+h1{
+    font-size: 50px;
+}
+.name{
+    color: blueviolet;
+    
+}
+body{
+    font-family: sans-serif;
+}
+h2{
+    color: aqua;
+}
+.a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+}
+.half-with{
+    width: 45%;
+   float: left;
+   margin-left: 5%;
+}
+.half-with img{
+    width: 60%;
+    height: 50%;
+
+}
+
+.big{
+    font-size: 70px;
+}
+    .p{
+        font-size: 50px;
+    }
+    .pera{
+        font-size: 30px;
+    }
+.q{
+    font-size: 70px;
+}
+.w{
+    font-size: 70px;
+}
+.e{
+    font-size: 30px;
+}
+.r{
+    font-size: 18px;
+}
+.new-class{
+    width: 45%;
+    margin-left; 20%;
+    padding: 10px 20px;
+   display: inline-block;
+}
+.footer{
+    text-align: center;
+    color: rgb(39, 49, 23);
+    }
+    .box1{
+     
+      box-shadow: 10px 10px 40px gray ;
+      border-radius: 10px;
+      border-left: 7px solid;
+      border-image: linear-gradient(180deg, rgb(173, 122, 255),rgb(71, 255, 154));
+      border-image-slice: 1;
+    }
+    .box2{
+      
+        box-shadow: 10px 10px 40px gray ;
+        border-radius: 10px;
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg, rgb(173, 122, 255),rgb(71, 255, 154));
+        border-image-slice: 1;
+    }
+    .p{
+        font-size: 45px;
+    color: blueviolet;
+    }
+    .o{
+        font-size: 25px;
+    }
+.ex{
+   font-size: 70px;
+   color: dimgray green;
+   }
+   .exe{
+    background-color: rgb(255, 255, 255);
+   color: blue;
+   }
